@@ -20,7 +20,7 @@ Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍�
 - Comments: Number of comments on the post
 - Saves: Number of saves on the post
 
-## Process:
+## Task Performed:
 - Data cleaning - process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset.
 - Observation writing involves examining the data and noting any notable findings, anomalies, or areas of interest.
 - Exploratory Data Analysis (EDA) is the process of examining and visualizing a dataset to understand its main characteristics, such as the distribution of data, the relationships between variables, and any anomalies or patterns that may exist. The goal of EDA is to uncover insights and trends that can help inform further analysis or decision-making.
