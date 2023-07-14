@@ -1,7 +1,7 @@
-# Instagram-Insights-EDA
+# Instagram-Account-Insights-EDA
 
 ## Description:
-Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) of ~𝟕𝟓𝐤 data enthusiasts founded by two individuals Aditi & Kalpesh. They share content around statistics, data science & analytics with budding data aspirants. The data set contains stats about the channel (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐). The goal is to analyse the data and provide recommendations on what type of post are working for the page.
+Unveiling Insights of an Instagram acoount/page based on its data. Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) of ~𝟕𝟓𝐤 data enthusiasts founded by two individuals Aditi & Kalpesh. They share content around statistics, data science & analytics with budding data aspirants. The data set contains stats about the page. The goal is to analyse the data and provide recommendations on what type of post are working for the page.
 
 **Domain: Social Media**
 
@@ -20,12 +20,12 @@ Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍�
 - Comments: Number of comments on the post
 - Saves: Number of saves on the post
 
-## Task Performed:
+## Process:
 - Data cleaning - process of identifying and correcting or removing errors, inconsistencies, and inaccuracies in a dataset.
-- Observation writing involves examining the data and noting any notable findings, anomalies, or areas of interest.
+- Observation writing - It involves examining the data and noting any notable findings, anomalies, or areas of interest.
 - Exploratory Data Analysis (EDA) is the process of examining and visualizing a dataset to understand its main characteristics, such as the distribution of data, the relationships between variables, and any anomalies or patterns that may exist. The goal of EDA is to uncover insights and trends that can help inform further analysis or decision-making.
 
 
 
-**Note**
-- Dataset is owned by @dataanalystduo page & instagram.
+* *Note* *
+* *Dataset is owned by @dataanalystduo page & instagram.* *
