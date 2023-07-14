@@ -1,7 +1,7 @@
 # Instagram-Account-Insights-EDA
 
 ## Description:
-Unveiling Insights of an Instagram acoount/page based on its data. Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) of ~𝟕𝟓𝐤 data enthusiasts founded by two individuals Aditi & Kalpesh. They share content around statistics, data science & analytics with budding data aspirants. The data set contains stats about the page. The goal is to analyse the data and provide recommendations on what type of post are working for the page.
+Unveiling Insights of an Instagram community page based on its data. Data Analyst Duo is an instagram community (@𝒅𝒂𝒕𝒂𝒂𝒏𝒂𝒍𝒚𝒔𝒕𝒅𝒖𝒐) of ~𝟕𝟓𝐤 data enthusiasts founded by two individuals Aditi & Kalpesh. They share content around statistics, data science & analytics with budding data aspirants. The data set contains stats about the page. The goal is to analyse the data and provide recommendations on what type of post are working for the page.
 
 **Domain: Social Media**
 
