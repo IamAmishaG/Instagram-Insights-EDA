@@ -26,5 +26,5 @@ Unveiling Insights of an Instagram acoount/page based on its data. Data Analyst 
 - Exploratory Data Analysis (EDA) is the process of examining and visualizing a dataset to understand its main characteristics, such as the distribution of data, the relationships between variables, and any anomalies or patterns that may exist. The goal of EDA is to uncover insights and trends that can help inform further analysis or decision-making.
 
 
-*Note*
+*Note-*
 *Dataset is owned by @dataanalystduo page & instagram.*
